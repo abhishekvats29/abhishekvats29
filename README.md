@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi I'm Abhishek Vats</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
-#### A passionate Fullstack developer with a kanck for creating engaging and interactive web application.
-Technology excited me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Web Development (Java, HTML, CSS, JavaScript, ReactJS, NodeJS)and My SQL. Windows OS. And what I make lack in skills I make up for with my determination to learn.
+<h3 A passionate Fullstack developer with a kanck for creating engaging and interactive web application.</h3>
+<h4 Technology excited me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Web Development (Java, HTML, CSS, JavaScript, ReactJS, NodeJS)and My SQL. Windows OS. And what I make lack in skills I make up for with my determination to learn.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekvats29&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekvats29" /> </p>
 
@@ -26,6 +26,5 @@ Technology excited me and I am always in awe of the change it drives in the worl
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekvats29&show_icons=true&locale=en" alt="abhishekvats29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekvats29&" alt="abhishekvats29" /></p>
-#### When I'm not coding, I enjoy exploring the Drawing and sketching images, that i love to do.
-#### Outside of Technology, I am music lover.
+
 
