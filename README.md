@@ -1,7 +1,8 @@
-[![MasterHead]([![https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399])
+![Your Banner](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Abhishek Vats</h1>
+
+<h1 align="center">Hi I'm Abhishek Vats</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif" alt="Your GIF">
 
