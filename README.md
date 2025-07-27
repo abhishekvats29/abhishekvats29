@@ -39,7 +39,7 @@ Outside of Technology, I am music lover.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/abhishekvats29" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="Twitter/X" width="40" height="40" style="background:white; border-radius:50%; padding:2px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://abhishekai.vercel.app/" target="_blank">
