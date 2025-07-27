@@ -32,22 +32,23 @@ Outside of Technology, I am music lover.
   </a>
   &nbsp;
   <a href="https://twitter.com/abhishekvats29" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="Twitter/X" width="40" height="40" style="background:white; border-radius:50%; padding:2px;"/>
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/abhishekvats29" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" style="background:white; border-radius:8px;"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/abhishekvats29" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
   </a>
-</p>
-&nbsp;
+  &nbsp;
   <a href="https://abhishekai.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-personal-portfolio-an-online-resume-shadow-tal-revivo.png" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 
 ## Abhishek vats Github stats
