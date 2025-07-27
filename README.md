@@ -32,7 +32,7 @@ Outside of Technology, I am music lover.
   </a>
   &nbsp;
   <a href="https://twitter.com/abhishekvats29" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="Twitter/X" width="40" height="40" style="background:white; border-radius:50%; padding:2px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="Twitter/X" width="40" height="40" style="background:black; border-radius:50%; padding:5px;"/>
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/abhishekvats29" target="_blank">
