@@ -31,16 +31,15 @@ Outside of Technology, I am music lover.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://twitter.com/abhishekvats29" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" alt="Twitter/X" width="40" height="40" style="background:black; border-radius:50%; padding:5px;"/>
-  </a>
-  &nbsp;
   <a href="https://www.hackerrank.com/abhishekvats29" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" style="background:white; border-radius:8px;"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/abhishekvats29" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/abhishekvats29" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="Twitter/X" width="40" height="40" style="background:white; border-radius:50%; padding:2px;"/>
   </a>
   &nbsp;
   <a href="https://abhishekai.vercel.app/" target="_blank">
