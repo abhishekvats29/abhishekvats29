@@ -1,13 +1,14 @@
 ![Your Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi I'm Abhishek Vats</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
-Hi, I am a passionate Software developer with a kanck for creating engaging and interactive FullStack application. Technology excited me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include FullStack Software Development (HTML, CSS, JavaScript, Java, Python, SQL, MYSQL, ReactJS,NodeJS, Flask, FastAPI, SqLite, Docker,Elastic search, Slack,  Render, Netlify, Vercel). Windows OS. And what I make lack in skills I make up for with my determination to learn.
-When I'm not coding, I enjoy exploring the Drawing and sketching images, that i love to do.
-Outside of Technology, I am music lover.
+Hi, I am a Full-Stack Software developer, Building Human centered digital experiences. Certain skills that I have worked with include FullStack Software Development (HTML, CSS, JavaScript, Java, Python, SQL, MYSQL, ReactJS,NodeJS, Flask, FastAPI, SqLite, Docker,Elastic search, Slack,  Render, Netlify, Vercel). Windows OS. And what I make lack in skills I make up for with my determination to learn.
+
+<a>When I'm not coding, I enjoy exploring the Drawing and sketching images, that i love to do.
+Outside of Technology, I am music lover.</a>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
@@ -15,7 +16,7 @@ Outside of Technology, I am music lover.
 | **Lightweight Feedback System** | Web app allowing managers and employees to exchange feedback | [Live Link](https://lightweight-feedback-system-1.netlify.app/) |
 | **Fitness Booking API** | Real-time email categorization + Slack alerts | [Backend Project](https://fitness-booking-api.onrender.com/docs) |
 
-🎯 More on my [Projects tab »](https://github.com/abhishekvats29?tab=repositories)
+More on my [Projects tab »](https://github.com/abhishekvats29?tab=repositories)
 
 ---
 
@@ -42,10 +43,6 @@ Outside of Technology, I am music lover.
   <a href="https://leetcode.com/abhishekvats29" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
   </a>
-  &nbsp;
-  <a href="https://abhishekai.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-personal-portfolio-an-online-resume-shadow-tal-revivo.png" alt="Portfolio" width="40" height="40"/>
-  </a>
 </p>
 
 ---
@@ -53,7 +50,9 @@ Outside of Technology, I am music lover.
 
 ## Abhishek vats Github stats
 ![abhishekvats29's Stats](https://github-readme-stats.vercel.app/api?username=abhishekvats29&theme=merko&show_icons=true&hide_border=true&count_private=true)
+
 ![abhishekvats29's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekvats29&theme=merko&hide_border=true)
+
 ![abhishekvats29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvats29&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 
