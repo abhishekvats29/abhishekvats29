@@ -1,7 +1,7 @@
 ![Your Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi I'm Abhishek Vats</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
-Hi, I am a Full-Stack Software developer, Building Human centered digital experiences. Certain skills that I have worked with include FullStack Software Development (HTML, CSS, JavaScript, Java, Python, SQL, MYSQL, ReactJS,NodeJS, Flask, FastAPI, SqLite, Docker,Elastic search, Slack,  Render, Netlify, Vercel). Windows OS. And what I make lack in skills I make up for with my determination to learn.
+Hi, I am a Full-Stack Software developer, Building Human centered digital experiences. Certain skills that I have worked with include FullStack Software Development (HTML, CSS, JavaScript, TypeScript, Java, Python, SQL, MYSQL, ReactJS, NodeJS, Flask, FastAPI, SqLite, Docker, Elastic search, Slack,  Render, Netlify, Vercel). Windows OS. And what I make lack in skills I make up for with my determination to learn.
 
 <a>When I'm not coding, I enjoy exploring the Drawing and sketching images, that i love to do.
 Outside of Technology, I am music lover.</a>
@@ -14,7 +14,7 @@ Outside of Technology, I am music lover.</a>
 |--------|-------------|-----------|
 | **AI Chatbot Portfolio** | Personal site powered by OpenAI | [Live Demo](https://abhishekai.vercel.app/) |
 | **Lightweight Feedback System** | Web app allowing managers and employees to exchange feedback | [Live Link](https://lightweight-feedback-system-1.netlify.app/) |
-| **Fitness Booking API** | Real-time email categorization + Slack alerts | [Backend Project](https://fitness-booking-api.onrender.com/docs) |
+| **Fitness Booking API** | Fitness booking API for class listings, bookings, and history. | [Backend Project](https://fitness-booking-api.onrender.com/docs) |
 
 More on my [Projects tab »](https://github.com/abhishekvats29?tab=repositories)
 
