@@ -15,6 +15,8 @@ Outside of Technology, I am music lover.</a>
 | **AI Chatbot Portfolio** | Personal site powered by OpenAI | [Live Demo](https://abhishekai.vercel.app/) |
 | **Lightweight Feedback System** | Web app allowing managers and employees to exchange feedback | [Live Link](https://lightweight-feedback-system-1.netlify.app/) |
 | **Fitness Booking API** | Fitness booking API for class listings, bookings, and history. | [Backend Project](https://fitness-booking-api.onrender.com/docs) |
+| **Candy Crush Game** | Candy Crush Inspired Game. | [Click here to play](https://candy-crush-inspired-game.onrender.com) |
+
 
 More on my [Projects tab »](https://github.com/abhishekvats29?tab=repositories)
 
