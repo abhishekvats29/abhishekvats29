@@ -12,7 +12,7 @@ Outside of Technology, I am music lover.</a>
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| **AI Chatbot Portfolio** | Personal site powered by OpenAI | [Live Demo](https://abhishekai.vercel.app/) |
+| **AI Chatbot Portfolio** | Personal site powered by OpenAI | [Live Demo](https://abhishekai.onrender.com/) |
 | **Lightweight Feedback System** | Web app allowing managers and employees to exchange feedback | [Live Link](https://lightweight-feedback-system-1.netlify.app/) |
 | **OneBox Email Aggregator** | It collects emails from multiple accounts in one place with AI-based reply suggestions. | [Live Link](https://onebox-email-aggregator-z6h0.onrender.com/) |
 | **Candy Crush Game** | Candy Crush Inspired Game. | [Click here to play](https://candy-crush-inspired-game.onrender.com) |
