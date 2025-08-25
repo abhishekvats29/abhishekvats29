@@ -4,9 +4,6 @@
        width="100%" />
 </p>
 
-
----
-
 <h1 align="center">Hi I'm Abhishek Vats</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 Hi, I am a Full-Stack Software developer, Building Human centered digital experiences. Certain skills that I have worked with include FullStack Software Development (HTML, CSS, JavaScript, TypeScript, Java, Python, SQL, MySQL, ReactJS, NodeJS, Flask, FastAPI, SqLite, Docker, Elastic search, Slack,  Render, Netlify, Vercel). Windows OS. And what I make lack in skills I make up for with my determination to learn.
