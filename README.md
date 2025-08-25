@@ -1,21 +1,5 @@
 <p align="center">
-<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0A0F1C" />
-      <stop offset="100%" stop-color="#1E3A8A" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad)" rx="20"/>
-  <text x="50%" y="50%" text-anchor="middle" font-size="36" font-family="Verdana" fill="#38BDF8">
-    Full-Stack Development & AI
-    <animate attributeName="fill" values="#38BDF8;#8B5CF6;#38BDF8" dur="6s" repeatCount="indefinite"/>
-  </text>
-  <text x="50%" y="80%" text-anchor="middle" font-size="20" font-family="Verdana" fill="#E5E7EB">
-    React · Next.js · Node.js · Python · FastAPI · SQL · Docker · AWS · LLMs · RAG
-    <animate attributeName="x" from="-100%" to="50%" dur="8s" repeatCount="indefinite"/>
-  </text>
-</svg>
+  <img src="https://media.giphy.com/media/b3oI3wBgPXFD2/giphy.gif" alt="Full-Stack & AI Animated Banner" width="100%" />
 </p>
 
 ---
