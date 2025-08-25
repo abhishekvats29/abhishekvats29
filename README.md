@@ -1,22 +1,28 @@
-<!-- Full-width video hero (autoplay, loop, muted) + GIF fallback for GitHub mobile/email -->
-<div align="center">
-  <video src="assets/header.mp4" poster="assets/header.jpg" autoplay loop muted playsinline width="100%">
-    <source src="assets/header.mp4" type="video/mp4" />
-    <img src="assets/header.gif" alt="Full-Stack Development & AI — hero animation"/>
-  </video>
-</div>
-
-<!-- Clean title line -->
-<h1 align="center">Building Scalable <i>Full-Stack</i> Systems & Practical <i>AI</i> Solutions</h1>
-
-<!-- Badges (optional, tweak to your stack) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-16/18/20-3B82F6?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-Next.js-6366F1?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-ML%20%7C%20AI-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-SQL-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20%7C%20Docker-Cloud%20Infra-38BDF8?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Gradient -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0F1C" />
+      <stop offset="100%" stop-color="#1E3A8A" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad)" rx="20"/>
+
+  <!-- Animated Headline -->
+  <text x="50%" y="50%" text-anchor="middle" font-size="36" font-family="Verdana, Geneva, sans-serif" fill="#38BDF8">
+    Full-Stack Development & AI
+    <animate attributeName="fill" values="#38BDF8;#8B5CF6;#38BDF8" dur="6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtext with slide-in -->
+  <text x="50%" y="80%" text-anchor="middle" font-size="20" font-family="Verdana, Geneva, sans-serif" fill="#E5E7EB">
+    React · Next.js · Node.js · Python · FastAPI · SQL · Docker · AWS · LLMs · RAG
+    <animate attributeName="x" from="-100%" to="50%" dur="8s" fill="freeze" repeatCount="indefinite"/>
+  </text>
+</svg>
 </p>
+
 ---
 
 
