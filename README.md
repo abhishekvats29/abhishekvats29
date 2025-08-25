@@ -54,7 +54,8 @@ More on my [Projects tab »](https://github.com/abhishekvats29?tab=repositories)
 ![abhishekvats29's Stats](https://github-readme-stats.vercel.app/api?username=abhishekvats29&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
 ## 📈 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekvats29&theme=highcontrast&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=abhishekvats29)
+
 
 
 ![abhishekvats29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvats29&theme=merko&show_icons=true&hide_border=true&layout=compact)
