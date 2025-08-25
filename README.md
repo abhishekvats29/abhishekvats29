@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/josperrod9.png" alt="josperrod9's GitHub Profile Image" width="200" />
-</p>
+
 
 ---
 
