@@ -50,16 +50,20 @@ More on my [Projects tab »](https://github.com/abhishekvats29?tab=repositories)
 ---
 
 
-## ⚡ GitHub Dashboard
+## ⚡ My GitHub Dashboard
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekvats29&theme=transparent&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekvats29&show_icons=true&theme=transparent&hide_border=true&border_radius=15" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=abhishekvats29&theme=blue-green&hide_border=false&border_radius=20&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=FFFFFF" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvats29&layout=compact&theme=transparent&hide_border=true&border_radius=15" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekvats29&show_icons=true&theme=blueberry&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&border_color=3B82F6&border_radius=20" height="180" alt="GitHub Stats"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvats29&layout=compact&bg_color=0D1117&title_color=3B82F6&border_color=60A5FA&border_radius=20" height="180" alt="Top Languages"/>
+</p>
+
 
 
 
