@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Animation Banner" width="100%" />
+  <img src="https://github.com/josperrod9.png" alt="josperrod9's GitHub Profile Image" width="200" />
 </p>
 
-
 ---
-
 
 <h1 align="center">Hi I'm Abhishek Vats</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
