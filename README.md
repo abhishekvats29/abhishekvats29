@@ -50,18 +50,30 @@ More on my [Projects tab »](https://github.com/abhishekvats29?tab=repositories)
 ---
 
 
-## ⚡ My GitHub Dashboard
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhishekvats29&theme=blueberry_duo&hide_border=false&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=FFFFFF&border_radius=20)
-
+## ⚡ GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekvats29&show_icons=true&theme=blueberry&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&border_color=3B82F6&border_radius=20" height="180" alt="GitHub Stats"/>
+  <!-- 🔥 Streak Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=abhishekvats29&theme=blueberry_duo&hide_border=false&background=0D1117&border=3B82F6&ring=3B82F6&fire=60A5FA&currStreakLabel=FFFFFF&sideLabels=60A5FA&dates=9CA3AF&border_radius=20" 
+    alt="GitHub Streak" 
+    height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvats29&layout=compact&bg_color=0D1117&title_color=3B82F6&border_color=60A5FA&border_radius=20" height="180" alt="Top Languages"/>
+  <!-- 📊 Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=abhishekvats29&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&icon_color=60A5FA&border_color=3B82F6&border_radius=20&hide_border=false" 
+    alt="GitHub Stats" 
+    height="180"/>
+  
+  <!-- 🏆 Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvats29&layout=compact&langs_count=8&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&icon_color=60A5FA&border_color=3B82F6&border_radius=20&hide_border=false" 
+    alt="Top Languages" 
+    height="180"/>
 </p>
+
 
 
 
