@@ -55,7 +55,7 @@ More on my [Projects tab »](https://github.com/abhishekvats29?tab=repositories)
 <p align="center">
   <!-- 🔥 Streak Card -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=abhishekvats29&theme=blueberry_duo&hide_border=false&background=0D1117&border=3B82F6&ring=3B82F6&fire=60A5FA&currStreakLabel=FFFFFF&sideLabels=60A5FA&dates=9CA3AF&border_radius=20" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=abhishekvats29&theme=react&hide_border=false&background=0A0F1C&border=38BDF8&ring=0EA5E9&fire=38BDF8&currStreakLabel=FFFFFF&sideLabels=38BDF8&dates=9CA3AF&border_radius=15" 
     alt="GitHub Streak" 
     height="180"/>
 </p>
@@ -63,20 +63,15 @@ More on my [Projects tab »](https://github.com/abhishekvats29?tab=repositories)
 <p align="center">
   <!-- 📊 Stats Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=abhishekvats29&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&icon_color=60A5FA&border_color=3B82F6&border_radius=20&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api?username=abhishekvats29&show_icons=true&count_private=true&include_all_commits=true&bg_color=0A0F1C&title_color=0EA5E9&text_color=E5E7EB&icon_color=38BDF8&border_color=38BDF8&border_radius=15&hide_border=false" 
     alt="GitHub Stats" 
     height="180"/>
   
   <!-- 🏆 Top Languages Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvats29&layout=compact&langs_count=8&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&icon_color=60A5FA&border_color=3B82F6&border_radius=20&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvats29&layout=compact&langs_count=8&bg_color=0A0F1C&title_color=0EA5E9&text_color=E5E7EB&border_color=38BDF8&border_radius=15&hide_border=false" 
     alt="Top Languages" 
     height="180"/>
 </p>
-
-
-
-
-
 
 
