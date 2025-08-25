@@ -50,15 +50,17 @@ More on my [Projects tab »](https://github.com/abhishekvats29?tab=repositories)
 ---
 
 
-## Abhishek vats Github stats
-![abhishekvats29's Stats](https://github-readme-stats.vercel.app/api?username=abhishekvats29&theme=merko&show_icons=true&hide_border=true&count_private=true)
+## ⚡ GitHub Dashboard
 
-## 📈 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=abhishekvats29)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhishekvats29&theme=transparent&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekvats29&show_icons=true&theme=transparent&hide_border=true&border_radius=15" alt="GitHub Stats" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvats29&layout=compact&theme=transparent&hide_border=true&border_radius=15" alt="Top Languages" height="170"/>
+</p>
 
-
-![abhishekvats29's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvats29&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 
 
