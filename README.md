@@ -1,4 +1,25 @@
-![Your Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+<!-- Full-width video hero (autoplay, loop, muted) + GIF fallback for GitHub mobile/email -->
+<div align="center">
+  <video src="assets/header.mp4" poster="assets/header.jpg" autoplay loop muted playsinline width="100%">
+    <source src="assets/header.mp4" type="video/mp4" />
+    <img src="assets/header.gif" alt="Full-Stack Development & AI — hero animation"/>
+  </video>
+</div>
+
+<!-- Clean title line -->
+<h1 align="center">Building Scalable <i>Full-Stack</i> Systems & Practical <i>AI</i> Solutions</h1>
+
+<!-- Badges (optional, tweak to your stack) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-16/18/20-3B82F6?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Next.js-6366F1?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-ML%20%7C%20AI-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-SQL-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20%7C%20Docker-Cloud%20Infra-38BDF8?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+---
+
+
 <h1 align="center">Hi I'm Abhishek Vats</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 Hi, I am a Full-Stack Software developer, Building Human centered digital experiences. Certain skills that I have worked with include FullStack Software Development (HTML, CSS, JavaScript, TypeScript, Java, Python, SQL, MySQL, ReactJS, NodeJS, Flask, FastAPI, SqLite, Docker, Elastic search, Slack,  Render, Netlify, Vercel). Windows OS. And what I make lack in skills I make up for with my determination to learn.
