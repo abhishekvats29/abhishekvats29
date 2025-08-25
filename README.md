@@ -21,7 +21,7 @@
     <animate attributeName="x" from="-100%" to="50%" dur="8s" fill="freeze" repeatCount="indefinite"/>
   </text>
 </svg>
-</p>
+</p> 
 
 ---
 
