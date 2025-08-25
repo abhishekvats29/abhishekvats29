@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/b3oI3wBgPXFD2/giphy.gif" alt="Full-Stack & AI Animated Banner" width="100%" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Animation Banner" width="100%" />
 </p>
+
 
 ---
 
