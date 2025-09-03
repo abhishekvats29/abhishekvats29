@@ -4,12 +4,19 @@
        width="100%" />
 </p>
 
-<h1 align="center">Hi I'm Abhishek Vats</h1>
-<h3 align="center">A passionate Software developer from India.</h3>
-Hi, I am a Full-Stack Software developer, Building Human centered digital experiences. Certain skills that I have worked with include FullStack Software Development (HTML, CSS, JavaScript, TypeScript, Java, Python, SQL, MySQL, ReactJS, NodeJS, Flask, FastAPI, SqLite, Docker, Elastic search, Slack,  Render, Netlify, Vercel). Windows OS. And what I make lack in skills I make up for with my determination to learn.
+<h1 align="center">Hi, I'm Abhishek Vats</h1>
+<h3 align="center">Software Developer | AI & Chatbot Enthusiast</h3>
 
-<a>When I'm not coding, I enjoy exploring the Drawing and sketching images, that i love to do.
-Outside of Technology, I am music lover.</a>
+I am a passionate Software Engineering student from India, focused on building **human-centered digital experiences** through Full-Stack development and AI-powered solutions.  
+
+**Skills & Tools:**  
+Full-Stack Development (HTML, CSS, JavaScript, TypeScript, Java, Python, SQL, MySQL, SQLite, ReactJS, NodeJS, Flask, FastAPI), Docker, ElasticSearch, Git/GitHub, Render, Vercel, Windows OS.  
+Experience with **AI & Chatbots** using ChatGPT, Cursor, GPT APIs, LangChain, and vector databases, along with data tools like Pandas and NumPy.  
+
+I bring determination and adaptability, always eager to learn and grow through hands-on projects.  
+
+Outside of coding, I enjoy **drawing, sketching, and music**, which inspire both my creativity and problem-solving.  
+
 
 ---
 
