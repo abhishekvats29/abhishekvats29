@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Abhishek Vats</h1>
 <h3 align="center">Software Developer | AI & Chatbot Enthusiast</h3>
 
-I am a passionate Software Engineering student from India, focused on building **human-centered digital experiences** through Full-Stack development and AI-powered solutions.  
+I am a passionate Software Engineer from India, focused on building **human-centered digital experiences** through Full-Stack development and AI-powered solutions.  
 
 **Skills & Tools:**  
 Full-Stack Development (HTML, CSS, JavaScript, TypeScript, Java, Python, SQL, MySQL, SQLite, ReactJS, NodeJS, Flask, FastAPI), Docker, ElasticSearch, Git/GitHub, Render, Vercel, Windows OS.  
