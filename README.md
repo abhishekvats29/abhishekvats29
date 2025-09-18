@@ -64,19 +64,19 @@ More on my [Projects tab »](https://github.com/abhishekvats29?tab=repositories)
 
 ## GitHub Dashboard  
 
-<!-- 🔥 Streak Card -->
+<!-- Streak Card -->
 <img 
   src="https://github-readme-streak-stats.herokuapp.com?user=abhishekvats29&theme=react&hide_border=false&background=0A0F1C&border=6366F1&ring=8B5CF6&fire=3B82F6&currStreakLabel=FFFFFF&sideLabels=8B5CF6&dates=9CA3AF&border_radius=15" 
   alt="GitHub Streak" 
   height="180"/>
 
-<!-- 📊 Stats Card -->
+<!-- Stats Card -->
 <img 
   src="https://github-readme-stats.vercel.app/api?username=abhishekvats29&show_icons=true&count_private=true&include_all_commits=true&bg_color=0A0F1C&title_color=6366F1&text_color=E5E7EB&icon_color=3B82F6&border_color=8B5CF6&border_radius=15&hide_border=false" 
   alt="GitHub Stats" 
   height="180"/>
 
-<!-- 🏆 Top Languages Card -->
+<!-- Top Languages Card -->
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvats29&layout=compact&langs_count=8&bg_color=0A0F1C&title_color=6366F1&text_color=E5E7EB&border_color=8B5CF6&border_radius=15&hide_border=false" 
   alt="Top Languages" 
