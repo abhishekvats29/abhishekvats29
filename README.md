@@ -10,7 +10,7 @@
 I am a passionate Software Engineer from India, focused on building **human-centered digital experiences** through Full-Stack development and AI-powered solutions.  
 
 **Skills & Tools:**  
-Full-Stack Development (HTML, CSS, JavaScript, TypeScript, Java, Python, SQL, MySQL, SQLite, ReactJS, NodeJS, Flask, FastAPI), Docker, ElasticSearch, Git/GitHub, Render, Vercel, Windows OS.  
+Full-Stack Development (HTML, CSS, JavaScript, TypeScript, Java, Python, SQL, MySQL, SQLite, ReactJS, NodeJS, Flask, FastAPI), Docker, ElasticSearch, Git/GitHub, AWS, Render, Vercel, Windows OS.  
 Experience with **AI & Chatbots** using ChatGPT, Cursor, GitHub Copilot, GPT APIs, LangChain, and vector databases, along with data tools like Pandas and NumPy.  
 
 I bring determination and adaptability, always eager to learn and grow through hands-on projects.  
