@@ -6,10 +6,10 @@
   />
 </p>
 
-<!-- Typing Animation (Bigger & Responsive) -->
+<!-- Typing Animation (Extra Large & Mobile Optimized) -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&height=70&lines=Full-Stack+Software+Engineer;AI-Powered+Product+Builder;Multi-Tenant+SaaS+Architect;Building+Scalable+Digital+Products" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=1200&height=90&lines=Full-Stack+Software+Engineer;AI-Powered+Product+Builder;Multi-Tenant+SaaS+Architect;Building+Scalable+Digital+Products" 
     width="100%" 
   />
 </p>
