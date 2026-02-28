@@ -6,10 +6,10 @@
   />
 </p>
 
-<!-- Typing Animation (Extra Large & Mobile Optimized) -->
+<!-- Premium Bold Typing Animation (2-Line Rotating) -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=1200&height=90&lines=Full-Stack+Software+Engineer;AI-Powered+Product+Builder;Multi-Tenant+SaaS+Architect;Building+Scalable+Digital+Products" 
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=42&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Software+Engineer;AI-Driven+SaaS+Product+Builder" 
     width="100%" 
   />
 </p>
