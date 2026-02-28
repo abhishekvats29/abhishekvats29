@@ -5,9 +5,8 @@
 </p>
 
 <h1 align="center">Hi, I'm Abhishek Vats</h1>
-<h3 align="center">Software Developer | AI & Chatbot Enthusiast</h3>
-
-## full-Stack Software Engineer | AI-Driven Product Builder | SaaS Architecture Enthusiast
+<h3 align="center"> full-Stack Software Engineer | AI-Driven Product Builder | SaaS Architecture Enthusiast
+</h3>
 
 I build scalable, production-ready digital products that combine strong system design with AI-powered intelligence. My focus is on creating high-performance backend systems, intuitive user experiences, and modern SaaS applications that solve real-world problems.
 
