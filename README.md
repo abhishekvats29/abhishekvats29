@@ -1,16 +1,18 @@
-<!-- Premium Animated Header -->
+<!-- Premium Animated Header (Mobile Optimized) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1F1C2C&height=220&section=header&text=Abhishek%20Vats&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1F1C2C&height=260&section=header&text=Abhishek%20Vats&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" 
+    width="100%" 
+  />
 </p>
 
-<!-- Typing Animation -->
+<!-- Typing Animation (Bigger & Responsive) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;AI-Powered+Product+Builder;Multi-Tenant+SaaS+Architect;Building+Scalable+Digital+Products" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&height=70&lines=Full-Stack+Software+Engineer;AI-Powered+Product+Builder;Multi-Tenant+SaaS+Architect;Building+Scalable+Digital+Products" 
+    width="100%" 
+  />
 </p>
-
-<h1 align="center">Hi, I'm Abhishek Vats</h1>
-<h3 align="center"> full-Stack Software Engineer | AI-Driven Product Builder | SaaS Architecture Enthusiast
-</h3>
 
 I build scalable, production-ready digital products that combine strong system design with AI-powered intelligence. My focus is on creating high-performance backend systems, intuitive user experiences, and modern SaaS applications that solve real-world problems.
 
