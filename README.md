@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" 
-       alt="Banner Animation" 
-       width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;AI-Powered+Product+Builder;Multi-Tenant+SaaS+Architect;Building+Scalable+Digital+Products" />
 </p>
 
 <h1 align="center">Hi, I'm Abhishek Vats</h1>
