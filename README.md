@@ -40,8 +40,6 @@ I build scalable, production-ready digital products that combine strong system d
 - System design and backend scalability
 - Performance optimization and clean architecture
 - Beyond Engineering
-
-Creativity shapes my thinking. Sketching, drawing, and music help me approach complex technical challenges with fresh perspective.
 ---
 
 ## Featured Projects
