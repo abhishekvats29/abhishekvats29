@@ -7,36 +7,34 @@
 <h1 align="center">Hi, I'm Abhishek Vats</h1>
 <h3 align="center">Software Developer | AI & Chatbot Enthusiast</h3>
 
-Abhishek Vats
-
-Full-Stack Software Engineer | AI-Driven Product Builder | SaaS Architecture Enthusiast
+## full-Stack Software Engineer | AI-Driven Product Builder | SaaS Architecture Enthusiast
 
 I build scalable, production-ready digital products that combine strong system design with AI-powered intelligence. My focus is on creating high-performance backend systems, intuitive user experiences, and modern SaaS applications that solve real-world problems.
 
-Engineering Philosophy
+## Engineering Philosophy
 
-Write clean, maintainable, production-grade code
-Design scalable multi-tenant architectures
-Leverage AI to enhance automation and decision-making
-Continuously improve through hands-on building
+- Write clean, maintainable, production-grade code
+- Design scalable multi-tenant architectures
+- Leverage AI to enhance automation and decision-making
+- Continuously improve through hands-on building
 
-Core Expertise
+## Core Expertise
 
-Languages: Python, JavaScript, TypeScript, Java, SQL
-Frontend: React.js, HTML5, CSS3
-Backend: Flask, FastAPI, Node.js, REST APIs
-Databases: PostgreSQL, MySQL, SQLite
-AI & LLM Integration: OpenAI APIs, LangChain, Vector Databases
-Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, CI/CD
-Data & Search: Pandas, NumPy, Elasticsearch
+- Languages: Python, JavaScript, TypeScript, SQL
+- Frontend: React.js, HTML5, CSS3
+- Backend: Flask, FastAPI, REST APIs
+- Databases: PostgreSQL, MySQL, SQLite
+- AI & LLM Integration: OpenAI APIs Claude, Google gemini, ChatGPT
+- Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, CI/CD
+- Data & Search: Pandas, NumPy, Elasticsearch
 
-Current Focus
+## Current Focus
 
-Multi-tenant SaaS platform development
-AI-powered workflow automation systems
-System design and backend scalability
-Performance optimization and clean architecture
-Beyond Engineering
+- Multi-tenant SaaS platform development
+- AI-powered workflow automation systems
+- System design and backend scalability
+- Performance optimization and clean architecture
+- Beyond Engineering
 
 Creativity shapes my thinking. Sketching, drawing, and music help me approach complex technical challenges with fresh perspective.
 ---
