@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;AI-Powered+Product+Builder;Multi-Tenant+SaaS+Architect;Building+Scalable+Digital+Products" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1F1C2C&height=200&section=header&text=Abhishek%20Vats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h1 align="center">Hi, I'm Abhishek Vats</h1>
