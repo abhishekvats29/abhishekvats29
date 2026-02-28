@@ -7,15 +7,24 @@
 <h1 align="center">Hi, I'm Abhishek Vats</h1>
 <h3 align="center">Software Developer | AI & Chatbot Enthusiast</h3>
 
-I am a passionate Software Engineer from India, focused on building **Digital Products with Cutting-Edge Technology** through Full-Stack development and AI-powered solutions.  
-
-**Skills & Tools:**  
-Full-Stack Development (HTML, CSS, JavaScript, TypeScript, Java, Python, SQL, MySQL, SQLite, ReactJS, NodeJS, Flask, FastAPI), Docker, ElasticSearch, Git/GitHub, AWS, Render, Vercel, Windows OS.  
-Experience with **AI & Chatbots** using ChatGPT, Cursor, Claude, GitHub Copilot, GPT APIs, LangChain, and vector databases, along with data tools like Pandas and NumPy.  
-
-I bring determination and adaptability, always eager to learn and grow through hands-on projects.  
-
-Outside of coding, I enjoy **drawing, sketching, and music**, which inspire both my creativity and problem-solving.  
+Hi, I'm Abhishek
+I'm a passionate Software Engineer from India, focused on building innovative digital products using cutting-edge full-stack development and AI-powered solutions.
+What I Do
+I specialize in creating scalable web applications and intelligent systems that solve real-world problems. My work spans from architecting robust backends to crafting seamless user experiences, with a strong focus on leveraging AI to build smarter applications.
+Tech Stack
+Languages: Python, JavaScript, TypeScript, Java, SQL
+Frontend: React.js, HTML5, CSS3, Responsive Design
+Backend: Flask, FastAPI, Node.js, RESTful APIs
+Database: PostgreSQL, MySQL, SQLite
+AI & LLMs: ChatGPT, Claude, GitHub Copilot, OpenAI APIs, LangChain, Vector Databases
+DevOps & Cloud: Docker, AWS (EC2, S3, Lambda), Git/GitHub, CI/CD
+Data & Search: Pandas, NumPy, Elasticsearch
+What Drives Me
+I'm driven by curiosity and a commitment to continuous learning. I thrive on tackling challenging problems and turning ideas into functional, impactful solutions. My adaptability and hands-on approach enable me to quickly master new technologies and frameworks.
+Beyond Code
+When I'm not coding, you'll find me sketching, drawing, or exploring music—creative pursuits that fuel my problem-solving abilities and bring fresh perspectives to my technical work.
+Let's Connect
+I'm always open to collaborating on exciting projects, discussing innovative ideas, or exploring new opportunities. Feel free to reach out!
 
 
 ---
